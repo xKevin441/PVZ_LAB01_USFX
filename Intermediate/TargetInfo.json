@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PVZ_LAB01_USFX",
+			"Path": "E:\\Estudio\\Programacion Avanzada II\\Unreal Proyectos\\PVZ_LAB01_USFX\\Source\\PVZ_LAB01_USFX.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PVZ_LAB01_USFXEditor",
+			"Path": "E:\\Estudio\\Programacion Avanzada II\\Unreal Proyectos\\PVZ_LAB01_USFX\\Source\\PVZ_LAB01_USFXEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

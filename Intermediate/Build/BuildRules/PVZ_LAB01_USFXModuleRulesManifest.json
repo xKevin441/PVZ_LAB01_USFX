@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Estudio\\Programacion Avanzada II\\Unreal Proyectos\\PVZ_LAB01_USFX\\Source\\PVZ_LAB01_USFX\\PVZ_LAB01_USFX.Build.cs",
+		"E:\\Estudio\\Programacion Avanzada II\\Unreal Proyectos\\PVZ_LAB01_USFX\\Source\\PVZ_LAB01_USFX.Target.cs",
+		"E:\\Estudio\\Programacion Avanzada II\\Unreal Proyectos\\PVZ_LAB01_USFX\\Source\\PVZ_LAB01_USFXEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

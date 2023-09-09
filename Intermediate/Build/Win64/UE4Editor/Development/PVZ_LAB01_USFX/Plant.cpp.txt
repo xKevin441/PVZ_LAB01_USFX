@@ -1,0 +1,5 @@
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\Definitions.PVZ_LAB01_USFX.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Source\PVZ_LAB01_USFX\Plant.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Source\PVZ_LAB01_USFX\PVZ_LAB01_USFXProjectile.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_LAB01_USFX\PVZ_LAB01_USFXProjectile.generated.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_LAB01_USFX\Plant.generated.h

@@ -1,0 +1,21 @@
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\Definitions.PVZ_LAB01_USFX.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Source\PVZ_LAB01_USFX\PVZ_LAB01_USFXGameMode.h
+D:\Juegos y aplicaciones\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Juegos y aplicaciones\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Juegos y aplicaciones\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Juegos y aplicaciones\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Source\PVZ_LAB01_USFX\Zombie.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_LAB01_USFX\Zombie.generated.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_LAB01_USFX\PVZ_LAB01_USFXGameMode.generated.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Source\PVZ_LAB01_USFX\PVZ_LAB01_USFXPawn.h
+D:\Juegos y aplicaciones\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Juegos y aplicaciones\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\Juegos y aplicaciones\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\Juegos y aplicaciones\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Juegos y aplicaciones\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Juegos y aplicaciones\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_LAB01_USFX\PVZ_LAB01_USFXPawn.generated.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Source\PVZ_LAB01_USFX\Plant.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Source\PVZ_LAB01_USFX\PVZ_LAB01_USFXProjectile.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_LAB01_USFX\PVZ_LAB01_USFXProjectile.generated.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_LAB01_USFX\Plant.generated.h

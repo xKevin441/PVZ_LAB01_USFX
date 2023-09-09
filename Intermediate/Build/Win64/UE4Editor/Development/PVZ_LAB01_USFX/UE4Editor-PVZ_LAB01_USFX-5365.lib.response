@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PVZ_LAB01_USFX-5365.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\PVZ_LAB01_USFXEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\Plant.cpp.obj"
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\PVZ_LAB01_USFX.cpp.obj"
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\PVZ_LAB01_USFXGameMode.cpp.obj"
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\PVZ_LAB01_USFXPawn.cpp.obj"
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\PVZ_LAB01_USFXProjectile.cpp.obj"
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\Zombie.cpp.obj"
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\Plant.gen.cpp.obj"
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\PVZ_LAB01_USFX.init.gen.cpp.obj"
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\PVZ_LAB01_USFXGameMode.gen.cpp.obj"
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\PVZ_LAB01_USFXPawn.gen.cpp.obj"
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\PVZ_LAB01_USFXProjectile.gen.cpp.obj"
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\Zombie.gen.cpp.obj"
+"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\Default.rc2.res"
+/OUT:"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\UE4Editor-PVZ_LAB01_USFX-5365.lib"
