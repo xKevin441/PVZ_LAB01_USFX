@@ -16,9 +16,7 @@ public:
 	APVZ_LAB01_USFXGameMode();
 	TArray<class AZombie*> ZombieArray;
 	TMap<FString, class APlant*> PlantMap;
-
-	/*UFUNCTION()
-	void DestroyActorFunction();*/
+	TArray<class ASol*> SolArray;
 
 protected:
 	// Called when the game starts or when spawned

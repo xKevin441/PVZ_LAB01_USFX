@@ -262,11 +262,8 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\PVZ_LAB01_USFXEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\PVZ_LAB01_USFXEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\PVZ_LAB01_USFXEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
 "E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Source\PVZ_LAB01_USFX\Plant.cpp"
-/FI"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\Definitions.PVZ_LAB01_USFX.h"
+/FI"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\Definitions.h"
 /Fo"E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\Plant.cpp.obj"
 /TP
 /GR-

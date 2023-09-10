@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\PVZ_LAB01_USFX.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{64145988-C057-47F5-A7CB-D942F314778F}</UniqueIdentifier>
+      <UniqueIdentifier>{90227A01-6052-4970-B4CC-759251091C27}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\PVZ_LAB01_USFX.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,11 @@
     <None Include="..\..\Source\PVZ_LAB01_USFXEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{2BF6F7A4-B96D-4ABF-B257-F62D921CDC28}</UniqueIdentifier>
+      <UniqueIdentifier>{1417EB5B-A988-4679-87EB-EA9E72651012}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +33,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\PVZ_LAB01_USFX">
-      <UniqueIdentifier>{932DCA68-1A4E-4A2E-BF34-744FFD911F6E}</UniqueIdentifier>
+      <UniqueIdentifier>{27D81275-E7A7-44E6-8F92-D66AF0D7A479}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\PVZ_LAB01_USFX\Plant.cpp">
       <Filter>Source\PVZ_LAB01_USFX</Filter>
@@ -63,6 +66,18 @@
       <Filter>Source\PVZ_LAB01_USFX</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\PVZ_LAB01_USFX\PVZ_LAB01_USFXProjectile.h">
+      <Filter>Source\PVZ_LAB01_USFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_LAB01_USFX\RandomMovement.cpp">
+      <Filter>Source\PVZ_LAB01_USFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_LAB01_USFX\RandomMovement.h">
+      <Filter>Source\PVZ_LAB01_USFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_LAB01_USFX\Sol.cpp">
+      <Filter>Source\PVZ_LAB01_USFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_LAB01_USFX\Sol.h">
       <Filter>Source\PVZ_LAB01_USFX</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\PVZ_LAB01_USFX\Zombie.cpp">

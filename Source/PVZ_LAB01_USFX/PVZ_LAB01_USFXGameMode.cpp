@@ -4,6 +4,7 @@
 #include "PVZ_LAB01_USFXPawn.h"
 #include "Zombie.h"
 #include "Plant.h"
+#include "Sol.h"
 
 APVZ_LAB01_USFXGameMode::APVZ_LAB01_USFXGameMode()
 {
@@ -33,6 +34,11 @@ void APVZ_LAB01_USFXGameMode::BeginPlay()
 		AZombie* NewZombieActor = GetWorld()->SpawnActor<AZombie>(AZombie::StaticClass(), SpawnLocationZombie, FRotator::ZeroRotator);
 		ZombieArray.Add(NewZombieActor);
 	}
+
+	//spawn sols
+	FVector SpawnLocationSol = FVector(500.0f, 400.0f, 160.0f);
+	ASol* NewSolActor = GetWorld()->SpawnActor<ASol>(ASol::StaticClass(), SpawnLocationSol, FRotator::ZeroRotator);
+	SolArray.Add(NewSolActor);
 
 }
 

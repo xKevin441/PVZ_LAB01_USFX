@@ -26,14 +26,9 @@ void APlant::BeginPlay()
 {
 	Super::BeginPlay();
 
-	FVector posicion = GetActorForwardVector();
-	FRotator rotacion = GetActorRotation();
-
-	GetWorld()->SpawnActor<APVZ_LAB01_USFXProjectile>(posicion, rotacion);
-	
-
-	float MinEnergy = 100.0f;
-	float MaxEnergy = 500.0f;
+	// Establece el nivel de energia de cada planta
+	float MinEnergy = 50.0f;
+	float MaxEnergy = 200.0f;
 	Energy = FMath::FRandRange(MinEnergy, MaxEnergy);
 }
 
@@ -41,8 +36,6 @@ void APlant::BeginPlay()
 void APlant::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
-
 
 }
 

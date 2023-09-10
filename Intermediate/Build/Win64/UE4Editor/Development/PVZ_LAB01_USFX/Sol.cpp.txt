@@ -1,0 +1,5 @@
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Development\PVZ_LAB01_USFX\Definitions.PVZ_LAB01_USFX.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Source\PVZ_LAB01_USFX\Sol.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Source\PVZ_LAB01_USFX\RandomMovement.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_LAB01_USFX\RandomMovement.generated.h
+E:\Estudio\Programacion Avanzada II\Unreal Proyectos\PVZ_LAB01_USFX\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_LAB01_USFX\Sol.generated.h

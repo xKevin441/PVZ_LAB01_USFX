@@ -36,6 +36,10 @@ void EmptyLinkFunctionForGeneratedCodePlant() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_PlantMesh_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_PlantMesh;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Energy_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_Energy;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -58,8 +62,15 @@ void EmptyLinkFunctionForGeneratedCodePlant() {}
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlant_Statics::NewProp_PlantMesh = { "PlantMesh", nullptr, (EPropertyFlags)0x0010000000080009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlant, PlantMesh), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_APlant_Statics::NewProp_PlantMesh_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlant_Statics::NewProp_PlantMesh_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APlant_Statics::NewProp_Energy_MetaData[] = {
+		{ "ModuleRelativePath", "Plant.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_APlant_Statics::NewProp_Energy = { "Energy", nullptr, (EPropertyFlags)0x0010000000000000, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APlant, Energy), METADATA_PARAMS(Z_Construct_UClass_APlant_Statics::NewProp_Energy_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APlant_Statics::NewProp_Energy_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_APlant_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlant_Statics::NewProp_PlantMesh,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlant_Statics::NewProp_Energy,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_APlant_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<APlant>::IsAbstract,
@@ -88,7 +99,7 @@ void EmptyLinkFunctionForGeneratedCodePlant() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APlant, 915222565);
+	IMPLEMENT_CLASS(APlant, 1968825485);
 	template<> PVZ_LAB01_USFX_API UClass* StaticClass<APlant>()
 	{
 		return APlant::StaticClass();

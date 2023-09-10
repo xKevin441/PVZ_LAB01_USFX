@@ -17,6 +17,8 @@ public:
 	APlant();
 	UPROPERTY(EditAnywhere)
 	UStaticMeshComponent* PlantMesh;
+
+	UPROPERTY()
 	float Energy;
 
 
